@@ -1,4 +1,4 @@
-# Simple Calculator in Python
+# A Improve Simple Calculator in Python
 
 def add(x, y):
     """Function to add two numbers"""
